@@ -1,3 +1,3 @@
 # OSlib
 
-操作系统专题实验 README 和 source code 托管。
+西安交通大学操作系统专题实验 source code 托管。
